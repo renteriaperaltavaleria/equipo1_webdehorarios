@@ -1,0 +1,72 @@
+body {
+    background-color: beige;
+    font-family: Arial;
+    color: saddlebrown;
+    margin: 30px;
+}
+
+
+h2 {
+    color: sienna;
+    text-align: center;
+}
+
+
+.menu {
+    background-color: bisque;
+    padding: 10px;
+    text-align: center;
+}
+
+.menu a {
+    color: sienna;
+    text-decoration: none;
+    margin: 10px;
+}
+
+.menu input {
+    padding: 5px;
+}
+
+
+.principal {
+    background-color: burlywood;
+    padding: 30px;
+    margin-top: 20px;
+    text-align: center;
+}
+
+
+.texto h1 {
+    color: saddlebrown;
+    font-size: 40px;
+}
+
+.texto p {
+    color: saddlebrown;
+    font-size: 16px;
+}
+
+button {
+    background-color: bisque;
+    color: saddlebrown;
+    border: 1px solid saddlebrown;
+    padding: 8px;
+    margin: 5px;
+}
+
+table {
+    width: 100%;
+    margin-top: 20px;
+}
+
+td {
+    background-color: peru;
+    color: white;
+    padding: 20px;
+    text-align: center;
+}
+
+td h2 {
+    color: white;
+}
