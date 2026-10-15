@@ -70,3 +70,22 @@ td {
 td h2 {
     color: white;
 }
+
+body {
+    margin: 0;
+    padding: 0;
+}
+
+footer {
+    background-color: saddlebrown;
+    color: bisque;
+    text-align: center;
+    padding: 20px;
+    width: 100%;
+    margin-top: 40px;
+}
+
+footer p {
+    color: bisque;
+    margin: 5px 0;
+}
