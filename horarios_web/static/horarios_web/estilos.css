@@ -44,15 +44,15 @@ h2 {
 
 .texto p {
     color: saddlebrown;
-    font-size: 16px;
+    font-size: 20px;
 }
 
 button {
     background-color: bisque;
     color: saddlebrown;
     border: 1px solid saddlebrown;
-    padding: 8px;
-    margin: 5px;
+    padding: 10px;
+    margin: 7px;
 }
 
 table {
@@ -63,7 +63,7 @@ table {
 td {
     background-color: peru;
     color: white;
-    padding: 20px;
+    padding: 30px;
     text-align: center;
 }
 
