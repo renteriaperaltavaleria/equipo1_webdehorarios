@@ -18,6 +18,8 @@ h2 {
     text-align: center;
 }
 
+.menu a :hover{color: white;}
+
 .menu a {
     color: sienna;
     text-decoration: none;
