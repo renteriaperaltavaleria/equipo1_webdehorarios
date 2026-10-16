@@ -88,4 +88,13 @@ footer {
 footer p {
     color: bisque;
     margin: 6px 0;
+    }
+
+.imagen {
+    display: block;
+    margin: 0 auto;
+    width: 1500px;
+    height: auto;
 }
+
+    
